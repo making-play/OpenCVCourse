@@ -1,5 +1,5 @@
 
-import cv2, time
+import cv2
 
 # Read an image in grayscale
 src = cv2.imread("resources/3-images/threshold.png", cv2.IMREAD_GRAYSCALE)
